@@ -3,7 +3,7 @@
 #############################################################################
 # INSTRUCTIONS:
 #############################################################################
-Pre-requisites: Having installed Docker in your system.
+# Pre-requisites: Having installed Docker in your system.
 # 1. Open a command-line at the location you'll want to save your notebooks.
 # 2. Build the Docker image using command:
 #    > docker build -t jupyterlab-di .
